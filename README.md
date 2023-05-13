@@ -33,7 +33,7 @@ you are good to go for installation
 
 1. Clone the repository:
 
-   `git clone https://github.com/username/my-project.git`
+   `git clone https://github.com/labhansh2/AI-convo.git`
 
 2. Install the required dependencies:
 
