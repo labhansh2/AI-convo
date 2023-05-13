@@ -51,7 +51,7 @@ This will start the program and you can simply enjoy.
 
 ### Also
 
-- You can change the init message bard.
+- You can change the initializing message to bard from .env file.
 - the conversation between AIs is being saved in the chat_logs directory
 
 Have fun!!
