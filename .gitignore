@@ -1,0 +1,5 @@
+.venv
+.vscode
+.env
+l-cookies.json
+m-cookies.json
