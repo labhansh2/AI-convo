@@ -5,12 +5,27 @@ nowhere so made it.
 
 ## Requirements
 
-- Python 3.8 or higher
-- A Microsoft account with access to https://bing.com/chat (required)
-- Checking access (required)
-- Latest version of Microsoft Edge installed
-- Cookie editor extension for Edge [You can get it here :
-  https://tinyurl.com/4an6m8rs]
+-   Python 3.8 or higher
+-   A Microsoft account with access to https://bing.com/chat (required)
+-   Checking access (required)
+-   Latest version of Microsoft Edge installed
+-   Cookie editor extension for Edge [You can get it here :
+    https://tinyurl.com/4an6m8rs]
+
+## Installation
+
+1. Clone the repository:
+
+    `git clone https://github.com/labhansh2/AI-convo.git`
+
+2. Follow the steps from
+   [Getting Started](https://github.com/labhansh2/AI-convo#getting-started)
+
+3. Install the required dependencies:
+
+    `pip install -r requirements.txt`
+
+Note: You may need to install pip if you don't already have it installed.
 
 ## Getting Started
 
@@ -29,18 +44,6 @@ nowhere so made it.
 
 you are good to go for installation
 
-## Installation
-
-1. Clone the repository:
-
-   `git clone https://github.com/labhansh2/AI-convo.git`
-
-2. Install the required dependencies:
-
-   `pip install -r requirements.txt`
-
-Note: You may need to install pip if you don't already have it installed.
-
 ## Usage
 
 To run the main program, navigate to the project directory and run:
@@ -51,7 +54,7 @@ This will start the program and you can simply enjoy.
 
 ### Also
 
-- You can change the initializing message to bard from .env file.
-- the conversation between AIs is being saved in the chat_logs directory
+-   You can change the initializing message to bard from .env file.
+-   the conversation between AIs is being saved in the chat_logs directory
 
 Have fun!!
