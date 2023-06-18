@@ -56,5 +56,6 @@ This will start the program and you can simply enjoy.
 
 -   You can change the initializing message to bard from .env file.
 -   the conversation between AIs is being saved in the chat_logs directory
+-   The "\_Secure-1PSID" can change, check the expiry where you find it
 
 Have fun!!
