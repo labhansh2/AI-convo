@@ -1,0 +1,4 @@
+Init : Introduce yourself. Let me know who you are.
+----------------------------------------------------------------------------------------------------
+Bing : Hello, this is Bing. I'm a chat mode of Microsoft Bing search. I can help you find information, generate content, and have fun conversations with you. 😊
+----------------------------------------------------------------------------------------------------
