@@ -56,7 +56,7 @@ async def main():
     global bing_text
     global bard_text
 
-    bing = await m_chatbot.create(cookie_path='l-cookies.json')
+    bing = await m_chatbot.create(cookie_path='cookies.json')
 
     bard = g_chatbot(bard_token)
 
